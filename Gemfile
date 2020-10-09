@@ -30,3 +30,4 @@ group :test do
 end
 
 gem 'hamlit-rails', '~> 0.2.3'
+gem 'html2haml', '~> 2.2.0'
